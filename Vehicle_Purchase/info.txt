@@ -1,0 +1,6 @@
+
+Título: Vehicle Purchase
+Tema: condicionales y comparaciones
+Nivel: learning
+Fecha: 02-07-2025
+
