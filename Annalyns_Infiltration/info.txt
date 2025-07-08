@@ -1,5 +1,5 @@
 Título: Gophers Gorgeous Lasgna
-Tema: calculo
+Tema: IF and Boolean
 Nivel: learning
 Fecha: 02-07-2025
 
