@@ -1,4 +1,4 @@
-package partyrobot
+package main
 import "fmt"
 
 // Welcome greets a person by name.
