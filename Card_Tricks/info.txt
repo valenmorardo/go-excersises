@@ -1,0 +1,5 @@
+Título: Card Tricks
+Tema: Slices y variadic functions
+Nivel: learning
+Fecha: 02-07-2025
+
